@@ -14,6 +14,9 @@ Preview with Expo Go: [Open Expo Demo](https://expo.dev/preview/update?message=1
 
 Preview with Vercel: [Open Expo Demo in Web](https://seal-together.vercel.app/)
 
+Test user:
+email: foca1@foca1.com
+password: foca1foca1
 
 ## Portfolio Summary
 
@@ -71,7 +74,6 @@ Planned improvements:
 - Implement reactions to community content 
 - Accessibility improvements
 - Server safe and private messages and media
-- Fix message media (memory limit surpassed)
 ...
 
 
